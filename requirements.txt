@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langgraph
+faiss-cpu
+aiohttp
+openai
+tiktoken
